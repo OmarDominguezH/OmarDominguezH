@@ -106,13 +106,6 @@ Me considero un desarrollador proactivo y autodidacta, siempre buscando solucion
 
 Estoy siempre abierto a colaborar en proyectos interesantes, aprender de nuevas experiencias y explorar oportunidades profesionales. ¡No dudes en contactarme! Puedes encontrarme en:
 
-<p align="center">
-  [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio.tlamatiliz-search.com/)
-  [![Tlamatiliz Search](https://img.shields.io/badge/Tlamatiliz_Search-007BFF?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.tlamatiliz-search.com/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@example.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin)
-  [![Hire Me](https://img.shields.io/badge/Hire%20Me-1A1A1A?style=for-the-badge&logo=about.me&logoColor=white)](https://portafolio.tlamatiliz-search.com/)
-</p>
 ---
 
 <p align="center">
