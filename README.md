@@ -113,13 +113,6 @@ Estoy siempre abierto a colaborar en proyectos interesantes, aprender de nuevas 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin)
   [![Hire Me](https://img.shields.io/badge/Hire%20Me-1A1A1A?style=for-the-badge&logo=about.me&logoColor=white)](https://portafolio.tlamatiliz-search.com/)
 </p>
-
----
-
-## 📊 Mis Estadísticas en GitHub
-
-[![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario-de-github&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario-de-github&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 <p align="center">
