@@ -35,21 +35,22 @@ Esta plataforma está diseñada para empoderar a estudiantes, desarrolladores y 
 ## 🛠️ Stack Tecnológico & Habilidades
 
 Aquí te presento las tecnologías y herramientas con las que trabajo y me siento cómodo:
-
 ### 💻 Lenguajes de Programación
-[![My Skills](https://skillicons.dev/icons?i=python,java,js,lua,html,css)](https://skillicons.dev)
-- **Principales:** Python, Java, JavaScript, Luau / Lua.
+- **Principales:** Python, Java, JavaScript.
 - **Web:** HTML5, CSS3.
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css)](https://skillicons.dev)
 
 ### 🚀 Frontend & Diseño
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nextjs)](https://skillicons.dev)
+
 - **Frameworks/Librerías:** React (explorando), Next.js (explorando).
 - **Estilos:** Tailwind CSS.
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nextjs)](https://skillicons.dev)
 
 ### ⚙️ Backend & Bases de Datos
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql)](https://skillicons.dev)
+
 - **Backend:** Node.js (explorando), Express.js (explorando).
 - **Bases de Datos:** MongoDB (explorando), MySQL (conocimientos básicos), PostgreSQL (conocimientos básicos).
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql)](https://skillicons.dev)
 
 ### 🔧 Herramientas de Desarrollo
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker)](https://skillicons.dev)
@@ -80,11 +81,10 @@ Aquí puedes encontrar algunos de mis trabajos más relevantes. ¡Explora los re
 - **Demo:** [https://www.tlamatiliz-search.com/](https://www.tlamatiliz-search.com/)
 - **Repositorio:** [Enlace al repositorio de Tlamatiliz Search si es público]
 
-### [Nombre de Otro Proyecto]
-- **Descripción:** [Breve descripción de tu proyecto]
-- **Tecnologías:** [Tecnologías usadas]
-- **Demo:** [Enlace a la demo si existe]
-- **Repositorio:** [Enlace al repositorio]
+### 💻 Hyper-V-Optimizer
+- **Descripción:** Script para optimizar la experiencia con Hyper-V en Windows 10/11, automatizando la configuración de máquinas virtuales para un rendimiento óptimo, incluyendo la desactivación de la integración de tiempo, la configuración de procesadores virtuales y la asignación de memoria dinámica.
+- **Tecnologías:** PowerShell, Batch Script.
+- **Repositorio:** [https://github.com/OmarDominguezH/Hyper-V-Optimizer.git](https://github.com/OmarDominguezH/Hyper-V-Optimizer.git)
 
 ---
 
@@ -98,18 +98,21 @@ Me considero un desarrollador proactivo y autodidacta, siempre buscando solucion
 
 - 🎓 **Educación:** Estudiante universitario de Ingeniería en Sistemas Computacionales (2.º año).
 - 💡 **Filosofía:** Aprender haciendo, resolver problemas reales y compartir el conocimiento con la comunidad.
-- 🎮 **Hobbies:** Desarrollo de simulaciones y entornos interactivos (Lua/Roblox), creación de contenido en directo, gaming táctico y experimentación con hardware.
+- 🎮 **Hobbies:** Desarrollo de simulaciones y entornos interactivos, creación de contenido en directo, gaming táctico y experimentación con hardware.
 
 ---
 
 ## 📬 ¡Conectemos! Estoy Abierto a Nuevas Oportunidades
 
-Estoy siempre abierto a colaborar en proyectos interesantes, aprender de nuevas experiencias y explorar oportunidades profesionales. ¡No dudes en contactarme!
+Estoy siempre abierto a colaborar en proyectos interesantes, aprender de nuevas experiencias y explorar oportunidades profesionales. ¡No dudes en contactarme! Puedes encontrarme en:
 
-- 🌍 **Portafolio:** [portafolio.tlamatiliz-search.com](https://portafolio.tlamatiliz-search.com/)
-- 🚀 **Plataforma Educativa:** [tlamatiliz-search.com](https://www.tlamatiliz-search.com/)
-- 📧 **Email:** [Tu correo electrónico aquí, e.g., omar.dominguez@example.com]
-- 💼 **LinkedIn:** [Tu perfil de LinkedIn aquí]
+<p align="center">
+  [![Portafolio](https://img.shields.io/badge/Portafolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portafolio.tlamatiliz-search.com/)
+  [![Tlamatiliz Search](https://img.shields.io/badge/Tlamatiliz_Search-007BFF?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.tlamatiliz-search.com/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.correo@example.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin)
+  [![Hire Me](https://img.shields.io/badge/Hire%20Me-1A1A1A?style=for-the-badge&logo=about.me&logoColor=white)](https://portafolio.tlamatiliz-search.com/)
+</p>
 
 ---
 
