@@ -104,8 +104,7 @@ Me considero un desarrollador proactivo y autodidacta, siempre buscando solucion
 
 ## 📬 ¡Conectemos! Estoy Abierto a Nuevas Oportunidades
 
-Estoy siempre abierto a colaborar en proyectos interesantes, aprender de nuevas experiencias y explorar oportunidades profesionales. ¡No dudes en contactarme! Puedes encontrarme en:
-
+Estoy siempre abierto a colaborar en proyectos interesantes, aprender de nuevas experiencias y explorar oportunidades profesionales. ¡No dudes en contactarme!
 ---
 
 <p align="center">
